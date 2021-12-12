@@ -9,7 +9,7 @@
 ## Using the application
 Homepage displays the application name (Kitchen Story) and four options - Login, Register, Admin, Cart.
 
-<img width="720" alt="sportyshoes-screenshot-homepage" src="https://raw.githubusercontent.com/Niks4u2/SportyShoes/main/Screenshots/Homepage.PNG">
+<img width="720" alt="kitchenstory-screenshot-homepage" src="https://raw.githubusercontent.com/Niks4u2/KitchenStory/main/Screenshots/homepage.PNG">
 
 <b>Kitchen Story</b>  - <br>
 A query is sent to the remote database that is hosted on MongoDB Atlas for MongoDB to fetch all the products and display to the user's homepage.
